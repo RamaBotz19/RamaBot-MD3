@@ -48,17 +48,17 @@ global.socialm = "GitHub: Jarot" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bombdy
-global.botname = "𝐑𝐢𝐬𝐦𝐚-ᴍᴅ᭄" //ur bot name
-global.websitex = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //ur website
+global.botname = "𝙍𝙖𝙢𝙖𝘽𝙤𝙩𝙯-𝙈𝘿" //ur bot name
+global.websitex = "https://youtube.com/channel/UCJNi-zXIsky4nheONnxoY1w" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
-global.packname = "𝐑𝐢𝐬𝐦𝐚-ᴍᴅ᭄ Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "𝐑𝐢𝐬𝐦𝐚-ᴍᴅ᭄"
+global.packname = "𝙍𝙖𝙢𝙖𝘽𝙤𝙩𝙯-𝙈𝘿 Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
+global.author = "𝙍𝙖𝙢𝙖𝙂𝙖𝙣𝙩𝙚𝙣𝙜"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['6285850539404'] //ur owner tag
-global.ownernummenu = ['6285850539404'] //ur owner number in menu and all
-global.watermark = "𝐑𝐢𝐬𝐦𝐚-ᴍᴅ᭄." //ur watermark
-global.botscript = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ"
+global.ownertag = ['6287793236775'] //ur owner tag
+global.ownernummenu = ['6287793236775'] //ur owner number in menu and all
+global.watermark = "𝙍𝙖𝙢𝙖𝘽𝙤𝙩𝙯-𝙈𝘿." //ur watermark
+global.botscript = "https://youtube.com/channel/UCJNi-zXIsky4nheONnxoY1w"
 global.linkz1 = ""
 global.linkz2 = ""
 
@@ -110,7 +110,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 2,
+    free: 10,
     monayawal: 1000
 }
    global.rpg = {
