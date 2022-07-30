@@ -41,11 +41,11 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6285850539404'] //ur owner number
-global.ownername = "6285850539404"
-global.ytname = "YT:https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //ur yt chanel name
-global.socialm = "GitHub: Jarot" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['6287793236775'] //ur owner number
+global.ownername = "𝙍𝙖𝙢𝙖 𝘾𝙧𝙚𝙖𝙩𝙤𝙧"
+global.ytname = "YT:https://youtube.com/channel/UCJNi-zXIsky4nheONnxoY1w" //ur yt chanel name
+global.socialm = "GitHub: RamaBotz9" //ur github or insta name
+global.location = "india, Mizoram, Aizawl" //ur location
 
 //bot bombdy
 global.botname = "𝙍𝙖𝙢𝙖𝘽𝙤𝙩𝙯-𝙈𝘿" //ur bot name
@@ -95,13 +95,13 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
     success: 'Done✓',
-    admin: 'This feature is only for admins!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This feature is only for owner',
-    group: 'This feature is only for groups!',
-    private: 'This feature is only for private chats!',
+    admin: '𝙡𝙪 𝙖𝙟𝙖 𝙗𝙪𝙠𝙖𝙣 𝙖𝙙𝙢𝙞𝙣!!',
+    botAdmin: '𝙡𝙪 𝙜𝙖 𝙟𝙖𝙙𝙞𝙞𝙣 𝙜𝙬 𝙖𝙙𝙢𝙞𝙣!',
+    owner: '𝙇𝙪 𝙗𝙪𝙠𝙖𝙣 𝙤𝙬𝙣𝙚𝙧 𝙜𝙬, 𝙤𝙬𝙣𝙚𝙧 𝙜𝙬 𝙨𝙞 𝙍𝙖𝙢𝙖𝙂𝙖𝙣𝙩𝙚𝙣𝙜',
+    group: '𝙥𝙖𝙠𝙚 𝙣𝙮𝙖 𝙙𝙞 𝙜𝙧𝙪𝙗 𝙣𝙜𝙚𝙣𝙩𝙤𝙙',
+    private: '𝙋𝙖𝙠𝙚 𝙉𝙮𝙖 𝙙𝙞 𝙋𝘾 𝙣𝙜𝙚𝙣𝙩𝙤𝙙',
     bot: 'This feature is only for bot',
-    wait: 'In process...',
+    wait: '𝙇𝙊𝘼𝘿𝙄𝙉𝙂...',
     linkm: 'Where is the link?',
     error: 'Error!',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
